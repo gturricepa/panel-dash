@@ -1,0 +1,32 @@
+{
+  "regions": {
+    "NA": {
+      "incidents": [
+        { "type": "Objects Falling on a Motor Vehicle", "count": 12 },
+        { "type": "Properly Parked Vehicle", "count": 8 },
+        { "type": "Vandalism", "count": 6 }
+      ]
+    },
+    "LATAM": {
+      "incidents": [
+        { "type": "Objects Falling on a Motor Vehicle", "count": 10 },
+        { "type": "Properly Parked Vehicle", "count": 7 },
+        { "type": "Vandalism", "count": 5 }
+      ]
+    },
+    "EUROPE": {
+      "incidents": [
+        { "type": "Objects Falling on a Motor Vehicle", "count": 9 },
+        { "type": "Properly Parked Vehicle", "count": 6 },
+        { "type": "Vandalism", "count": 7 }
+      ]
+    },
+    "ASIA": {
+      "incidents": [
+        { "type": "Objects Falling on a Motor Vehicle", "count": 5 },
+        { "type": "Properly Parked Vehicle", "count": 9 },
+        { "type": "Vandalism", "count": 4 }
+      ]
+    }
+  }
+}

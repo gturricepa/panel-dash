@@ -1,0 +1,950 @@
+{
+    "zones": [
+      {
+        "name": "Latam",
+        "country": [
+          {
+            "name": "Brazil",
+            "data_per_month": [
+              {
+                "month": "January",
+                "miles": 50000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 8,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 7,
+                    "injuries": 3
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "JJ Driver Hit in Rear",
+                    "quantity": 5,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Acts of Nature",
+                    "quantity": 3,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Objects falling in a motor vehicle",
+                    "quantity": 2,
+                    "injuries": 0
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Vandalism",
+                    "quantity": 1,
+                    "injuries": 0
+                  }
+                ]
+              },
+              {
+                "month": "February",
+                "miles": 45000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 6,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 5,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "JJ Driver Hit in Rear",
+                    "quantity": 4,
+                    "injuries": 0
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Acts of Nature",
+                    "quantity": 2,
+                    "injuries": 0
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Objects falling in a motor vehicle",
+                    "quantity": 3,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Vandalism",
+                    "quantity": 1,
+                    "injuries": 0
+                  }
+                ]
+              },
+              {
+                "month": "April",
+                "miles": 47000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 6,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 5,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Acts of Nature",
+                    "quantity": 4,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "June",
+                "miles": 49000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "JJ Driver Hit in Rear",
+                    "quantity": 7,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 8,
+                    "injuries": 3
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Objects falling in a motor vehicle",
+                    "quantity": 3,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "October",
+                "miles": 51000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 7,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 6,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Acts of Nature",
+                    "quantity": 3,
+                    "injuries": 0
+                  }
+                ]
+              },
+              {
+                "month": "November",
+                "miles": 48000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "JJ Driver Hit in Rear",
+                    "quantity": 5,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 7,
+                    "injuries": 3
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Objects falling in a motor vehicle",
+                    "quantity": 2,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "December",
+                "miles": 50000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 6,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 5,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Acts of Nature",
+                    "quantity": 4,
+                    "injuries": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Argentina",
+            "data_per_month": [
+              {
+                "month": "January",
+                "miles": 30000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 5,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 4,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Acts of Nature",
+                    "quantity": 2,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Vandalism",
+                    "quantity": 1,
+                    "injuries": 0
+                  }
+                ]
+              },
+              {
+                "month": "February",
+                "miles": 32000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 6,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 5,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Objects falling in a motor vehicle",
+                    "quantity": 3,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "April",
+                "miles": 31000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 4,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 3,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "June",
+                "miles": 33000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 5,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 4,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "October",
+                "miles": 34000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 6,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 4,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "November",
+                "miles": 31000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 5,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 3,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "December",
+                "miles": 32000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 4,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 5,
+                    "injuries": 2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "North America",
+        "country": [
+          {
+            "name": "Canada",
+            "data_per_month": [
+              {
+                "month": "January",
+                "miles": 60000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 10,
+                    "injuries": 3
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 8,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Acts of Nature",
+                    "quantity": 4,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Objects falling in a motor vehicle",
+                    "quantity": 3,
+                    "injuries": 0
+                  }
+                ]
+              },
+              {
+                "month": "February",
+                "miles": 55000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 9,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 7,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Vandalism",
+                    "quantity": 2,
+                    "injuries": 0
+                  }
+                ]
+              },
+              {
+                "month": "April",
+                "miles": 56000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 8,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 6,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "June",
+                "miles": 57000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 7,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 6,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "October",
+                "miles": 58000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 9,
+                    "injuries": 3
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 7,
+                    "injuries": 2
+                  }
+                ]
+              },
+              {
+                "month": "November",
+                "miles": 59000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 8,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 6,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "December",
+                "miles": 60000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 9,
+                    "injuries": 3
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 7,
+                    "injuries": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "USA",
+            "data_per_month": [
+              {
+                "month": "January",
+                "miles": 80000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 15,
+                    "injuries": 5
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "JJ Driver Hit in Rear",
+                    "quantity": 10,
+                    "injuries": 4
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Objects falling in a motor vehicle",
+                    "quantity": 5,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "February",
+                "miles": 75000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 13,
+                    "injuries": 4
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 12,
+                    "injuries": 3
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Vandalism",
+                    "quantity": 3,
+                    "injuries": 0
+                  }
+                ]
+              },
+              {
+                "month": "April",
+                "miles": 77000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 14,
+                    "injuries": 5
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "JJ Driver Hit in Rear",
+                    "quantity": 11,
+                    "injuries": 4
+                  }
+                ]
+              },
+              {
+                "month": "June",
+                "miles": 76000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 12,
+                    "injuries": 4
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 10,
+                    "injuries": 3
+                  }
+                ]
+              },
+              {
+                "month": "October",
+                "miles": 74000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 13,
+                    "injuries": 4
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 11,
+                    "injuries": 3
+                  }
+                ]
+              },
+              {
+                "month": "November",
+                "miles": 73000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 14,
+                    "injuries": 5
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "JJ Driver Hit in Rear",
+                    "quantity": 12,
+                    "injuries": 4
+                  }
+                ]
+              },
+              {
+                "month": "December",
+                "miles": 75000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 15,
+                    "injuries": 5
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "JJ Driver Hit in Rear",
+                    "quantity": 11,
+                    "injuries": 4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "country": [
+          {
+            "name": "UK",
+            "data_per_month": [
+              {
+                "month": "January",
+                "miles": 40000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 9,
+                    "injuries": 3
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 7,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Acts of Nature",
+                    "quantity": 3,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "February",
+                "miles": 42000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 10,
+                    "injuries": 3
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 8,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Vandalism",
+                    "quantity": 4,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "April",
+                "miles": 41000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 8,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 7,
+                    "injuries": 3
+                  }
+                ]
+              },
+              {
+                "month": "June",
+                "miles": 43000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 10,
+                    "injuries": 4
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 9,
+                    "injuries": 3
+                  }
+                ]
+              },
+              {
+                "month": "October",
+                "miles": 44000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 11,
+                    "injuries": 3
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 8,
+                    "injuries": 2
+                  }
+                ]
+              },
+              {
+                "month": "November",
+                "miles": 45000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 9,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 8,
+                    "injuries": 3
+                  }
+                ]
+              },
+              {
+                "month": "December",
+                "miles": 42000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 10,
+                    "injuries": 4
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 7,
+                    "injuries": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Ireland",
+            "data_per_month": [
+              {
+                "month": "January",
+                "miles": 35000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 6,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 5,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Incident",
+                    "details": "Acts of Nature",
+                    "quantity": 2,
+                    "injuries": 0
+                  }
+                ]
+              },
+              {
+                "month": "February",
+                "miles": 34000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 5,
+                    "injuries": 1
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 7,
+                    "injuries": 2
+                  }
+                ]
+              },
+              {
+                "month": "April",
+                "miles": 33000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 5,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 4,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "June",
+                "miles": 34000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 6,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 5,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "October",
+                "miles": 35000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 7,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 5,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "November",
+                "miles": 33000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 6,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 4,
+                    "injuries": 1
+                  }
+                ]
+              },
+              {
+                "month": "December",
+                "miles": 34000,
+                "events": [
+                  {
+                    "type": "Accident",
+                    "details": "Hit while parking",
+                    "quantity": 7,
+                    "injuries": 2
+                  },
+                  {
+                    "type": "Accident",
+                    "details": "Other driver hit in Rear",
+                    "quantity": 5,
+                    "injuries": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,60 @@
+{
+  "zones": {
+    "NA": {
+      "countries": [
+        {
+          "name": "United States of America",
+          "CPMM": 1200,
+          "CIPMM": 800
+        },
+        {
+          "name": "Canada",
+          "CPMM": 1100,
+          "CIPMM": 750
+        }
+      ]
+    },
+    "Europe": {
+      "countries": [
+        {
+          "name": "United Kingdom",
+          "CPMM": 1300,
+          "CIPMM": 850
+        },
+        {
+          "name": "Ireland",
+          "CPMM": 1250,
+          "CIPMM": 800
+        }
+      ]
+    },
+    "Latam": {
+      "countries": [
+        {
+          "name": "Brazil",
+          "CPMM": 900,
+          "CIPMM": 600
+        },
+        {
+          "name": "Argentina",
+          "CPMM": 850,
+          "CIPMM": 550
+        }
+      ]
+    },
+    "Asia": {
+      "countries": [
+        {
+          "name": "Japan",
+          "CPMM": 1400,
+          "CIPMM": 900
+        },
+        {
+          "name": "India",
+          "CPMM": 1000,
+          "CIPMM": 700
+        }
+      ]
+    }
+  }
+}

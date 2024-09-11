@@ -1,0 +1,37 @@
+{
+    "regions": {
+      "NA": {
+        "crashes": [
+
+          { "type": "J&J Driver hit rear of other vehicle", "count": 15 },
+          { "type": "J&J Driver lost control of vehicle", "count": 5 },
+          { "type": "Other Driver Hit and Run", "count": 3 }
+        ]
+      },
+      "LATAM": {
+        "crashes": [
+
+          { "type": "J&J Driver hit rear of other vehicle", "count": 6 },
+          { "type": "J&J Driver lost control of vehicle", "count": 4 },
+          { "type": "Other Driver Hit and Run", "count": 2 }
+        ]
+      },
+      "EUROPE": {
+        "crashes": [
+
+          { "type": "J&J Driver hit rear of other vehicle", "count": 5 },
+          { "type": "J&J Driver lost control of vehicle", "count": 6 },
+          { "type": "Other Driver Hit and Run", "count": 4 }
+        ]
+      },
+      "ASIA": {
+        "crashes": [
+
+          { "type": "J&J Driver hit rear of other vehicle", "count": 8 },
+          { "type": "J&J Driver lost control of vehicle", "count": 2 },
+          { "type": "Other Driver Hit and Run", "count": 1 }
+        ]
+      }
+    }
+  }
+  

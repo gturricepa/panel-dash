@@ -1,0 +1,16 @@
+{
+    "months": [
+      { "month": "January", "value": 20 },
+      { "month": "February", "value": 20 },
+      { "month": "March", "value":50 },
+      { "month": "April", "value": 20 },
+      { "month": "May", "value": 20 },
+      { "month": "June", "value": 30 },
+      { "month": "July", "value": 40 },
+      { "month": "August", "value": 10 },
+      { "month": "September", "value": 5 },
+      { "month": "October", "value": 15 },
+      { "month": "November", "value": 30 },
+      { "month": "December", "value": 20 }
+    ]
+  }
