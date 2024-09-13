@@ -24,7 +24,12 @@ export const Events = () => {
         </Styled.Btn>
       </Styled.Actions>
       
-      {selectedView === 'incidents' ? <Incidents /> : <Crashes />}
+      <Styled.Incidents visible={selectedView === 'incidents'}>
+         <Incidents />
+      </Styled.Incidents>
+      <Styled.Crashes visible={selectedView === 'crashes'}>
+         <Crashes /> 
+      </Styled.Crashes>
     </Styled.Holder>
   );
 };

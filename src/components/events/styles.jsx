@@ -13,16 +13,14 @@ export const Holder = styled.div`
 
 export const Title = styled.h3`
   ${({ theme }) => css`
-  display: flex;
-width: 100%;
-padding-bottom:${theme.spacing.small} ;
-border-bottom: ${theme.spacing.small} solid ${theme.color.backgroundColor} ;
-border-top: ${theme.spacing.small} solid ${theme.color.backgroundColor} ;
-
-align-items: center;
-justify-content: center;
-background-color: ${theme.color.backgroundColor2} ;
-    
+    display: flex;
+    width: 100%;
+    padding-bottom: ${theme.spacing.small};
+    border-bottom: ${theme.spacing.small} solid ${theme.color.backgroundColor};
+    border-top: ${theme.spacing.small} solid ${theme.color.backgroundColor};
+    align-items: center;
+    justify-content: center;
+    background-color: ${theme.color.backgroundColor2};
   `}
 `;
 
@@ -52,5 +50,19 @@ export const Btn = styled.div`
       color: ${theme.color.primary};
       border-bottom: 2px solid ${theme.color.primary};
     }
+  `}
+`;
+
+export const Incidents = styled.div`
+  ${({ visible }) => css`
+    display: ${visible ? 'flex' : 'none'};
+    /* Remove any transition or animation properties */
+  `}
+`;
+
+export const Crashes = styled.div`
+  ${({ visible }) => css`
+    display: ${visible ? 'flex' : 'none'};
+    /* Remove any transition or animation properties */
   `}
 `;

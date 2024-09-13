@@ -67,6 +67,7 @@ export const ChartHeader = styled.div`
     align-items: center;
     width: 100%;
     margin-bottom: ${theme.spacing.small};
+
     
   `}
 `;
