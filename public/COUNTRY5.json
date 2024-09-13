@@ -1,0 +1,33 @@
+{
+    "id": 5,
+    "name": "Argentina",
+    "CPMM": {
+      "January": 70,
+      "February": 75,
+      "March": 60,
+      "April": 80,
+      "May": 65,
+      "June": 70,
+      "July": 65,
+      "August": 75,
+      "September": 80,
+      "October": 60,
+      "November": 70,
+      "December": 55
+    },
+    "CIPMM": {
+      "January": 45,
+      "February": 50,
+      "March": 45,
+      "April": 55,
+      "May": 45,
+      "June": 50,
+      "July": 50,
+      "August": 45,
+      "September": 55,
+      "October": 50,
+      "November": 50,
+      "December": 50
+    }
+  }
+  

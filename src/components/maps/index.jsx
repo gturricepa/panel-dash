@@ -14,7 +14,7 @@ export const Maps = () => {
             <Styled.Maps>
                 <CPMMWorld />
                 <CIPMMWorld />
-            </Styled.Maps>
+            </Styled.Maps>A
 
         </Styled.Holder>
     );

@@ -14,8 +14,11 @@ width: 100%;
     background-color: ${(props) => props.color[1]};
 h3{
     background-color: ${(props) => props.color[0]};
-    padding-left:${theme.spacing.xsmall};
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin: 0;
+    font-size: 1.2rem;
 }
 
   p {

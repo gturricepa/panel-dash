@@ -23,6 +23,7 @@ justify-content: center;
 box-sizing: border-box;
 background-color:${theme.color.backgroundColor2} ;
 
+
 `}
 `
 export const ChartHolder = styled.div`

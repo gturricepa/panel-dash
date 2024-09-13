@@ -15,13 +15,14 @@ export const Header = styled.header`
     box-sizing: border-box;
     
     a {
-      border-bottom: 2px solid ${theme.color.backgroundColor};
+      border-bottom: 2.5px solid ${theme.color.backgroundColor};
       font-size: ${theme.size.normal};
       box-sizing: border-box;
       transition: border-bottom 0.2s ease;
-      
+      margin-top: 10px;
+      margin-bottom: 10px;
       &:hover {
-        border-bottom: 2px solid ${theme.color.primaryColor};
+        border-bottom: 2.5px solid ${theme.color.primaryColor};
       }
     }
 

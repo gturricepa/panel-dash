@@ -1,0 +1,33 @@
+{
+    "id": 0,
+    "name": "United States of America",
+    "CPMM": {
+      "January": 120,
+      "February": 95,
+      "March": 110,
+      "April": 100,
+      "May": 120,
+      "June": 105,
+      "July": 110,
+      "August": 95,
+      "September": 125,
+      "October": 110,
+      "November": 105,
+      "December": 120
+    },
+    "CIPMM": {
+      "January": 65,
+      "February": 70,
+      "March": 55,
+      "April": 60,
+      "May": 70,
+      "June": 60,
+      "July": 75,
+      "August": 55,
+      "September": 75,
+      "October": 65,
+      "November": 60,
+      "December": 75
+    }
+  }
+  

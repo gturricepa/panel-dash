@@ -8,6 +8,7 @@ import { CPMMIPMM } from './components/charts/cpmm-ipmm';
 import { Maps } from './components/maps';
 import { Crashes } from './components/charts/crashes';
 import { Incidents } from './components/charts/incidents';
+import { Events } from './components/events';
 
 
 function App() {
@@ -28,14 +29,17 @@ function App() {
         <section id='dashborad'>
           <DashByRegion />
         </section>
-        <section id ='cpmm-map'>
+        {/* <section id ='cpmm-map'>
           <Maps />
-       </section>
-       <section id='crashes'>
+       </section> */}
+       {/* <section id='crashes'>
        <Crashes />
-       </section>
-       <section id='incidents'>
+       </section> */}
+       {/* <section id='incidents'>
        <Incidents />
+       </section> */}
+       <section id='events'>
+       <Events />
        </section>
        <Scroll/>
       </main>

@@ -1,0 +1,33 @@
+{
+    "id": 4,
+    "name": "Brazil",
+    "CPMM": {
+      "January": 80,
+      "February": 70,
+      "March": 85,
+      "April": 60,
+      "May": 75,
+      "June": 90,
+      "July": 75,
+      "August": 60,
+      "September": 70,
+      "October": 75,
+      "November": 75,
+      "December": 85
+    },
+    "CIPMM": {
+      "January": 55,
+      "February": 50,
+      "March": 60,
+      "April": 45,
+      "May": 50,
+      "June": 60,
+      "July": 55,
+      "August": 50,
+      "September": 55,
+      "October": 45,
+      "November": 50,
+      "December": 55
+    }
+  }
+  

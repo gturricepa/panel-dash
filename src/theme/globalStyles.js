@@ -22,7 +22,8 @@
       border: none; 
       padding: 0; 
       margin: 0;
-      font: inherit; 
+      
+      ;
   }
 
   .main{
@@ -40,6 +41,13 @@
     width: 100%;
   
   }
+  h3{
+    font-size: 1.8rem;
+    padding: 0;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+
+   }
 
   `;
   

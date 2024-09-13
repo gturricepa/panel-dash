@@ -4,11 +4,13 @@
       "countries": [
         {
           "name": "United States of America",
+          "id": 0,
           "CPMM": 1200,
           "CIPMM": 800
         },
         {
           "name": "Canada",
+          "id": 1,
           "CPMM": 1100,
           "CIPMM": 750
         }
@@ -18,11 +20,13 @@
       "countries": [
         {
           "name": "United Kingdom",
+          "id": 2,
           "CPMM": 1300,
           "CIPMM": 850
         },
         {
           "name": "Ireland",
+          "id": 3,
           "CPMM": 1250,
           "CIPMM": 800
         }
@@ -32,25 +36,30 @@
       "countries": [
         {
           "name": "Brazil",
+          "id": 4,
           "CPMM": 900,
           "CIPMM": 600
         },
         {
           "name": "Argentina",
+          "id": 5,
           "CPMM": 850,
           "CIPMM": 550
         }
+
       ]
     },
     "Asia": {
       "countries": [
         {
           "name": "Japan",
+          "id": 6,
           "CPMM": 1400,
           "CIPMM": 900
         },
         {
           "name": "India",
+          "id": 7,
           "CPMM": 1000,
           "CIPMM": 700
         }

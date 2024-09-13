@@ -1,0 +1,33 @@
+{
+    "id": 7,
+    "name": "India",
+    "CPMM": {
+      "January": 95,
+      "February": 85,
+      "March": 80,
+      "April": 90,
+      "May": 80,
+      "June": 90,
+      "July": 85,
+      "August": 75,
+      "September": 90,
+      "October": 85,
+      "November": 80,
+      "December": 90
+    },
+    "CIPMM": {
+      "January": 55,
+      "February": 60,
+      "March": 55,
+      "April": 60,
+      "May": 60,
+      "June": 55,
+      "July": 65,
+      "August": 55,
+      "September": 60,
+      "October": 55,
+      "November": 65,
+      "December": 55
+    }
+  }
+  
