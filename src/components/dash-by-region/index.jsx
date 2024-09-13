@@ -6,7 +6,7 @@ import { DASH_DATA } from '../../api';
 import React from 'react';
 import { MainRegionCard } from './card-region';
 import TravelExploreIcon from '@mui/icons-material/TravelExplore';
-import KeyboardBackspaceIcon from '@mui/icons-material/KeyboardBackspace';
+import KeyboardReturnIcon from '@mui/icons-material/KeyboardReturn';
 import { Country } from './country';
 import {Modal} from '../modal';
 export const DashByRegion = () => {
@@ -88,7 +88,7 @@ if (data){
   {zone &&
         <Styled.Zone>
           <Styled.Back>
-          {!general && <div onClick={handleBack}><KeyboardBackspaceIcon/></div>}
+          {!general && <div onClick={handleBack}><KeyboardReturnIcon/><span></span></div>}
           <h3>{zone.toUpperCase()}</h3>
           </Styled.Back>
           <Styled.Countries>{data.zones[zone].countries.map(country => (
