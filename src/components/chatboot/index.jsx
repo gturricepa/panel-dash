@@ -44,7 +44,7 @@ export const ChatBoot = () => {
 
   const fetchBaseData = async () => {
     try {
-      const response = await fetch('mockdata.json');
+      const response = await fetch('mock.json');
       const data = await response.json();
       setBaseData(data);
     } catch (error) {

@@ -1,0 +1,384 @@
+{
+    "countries": [
+      {
+        "country": "US",
+        "CPMM_total": 1200,
+        "CIPMM_total": 800,
+        "monthly_data": {
+          "CPMM": {
+            "January": 110,
+            "February": 100,
+            "March": 125,
+            "April": 105,
+            "May": 120,
+            "June": 115,
+            "July": 120,
+            "August": 100,
+            "September": 130,
+            "October": 110,
+            "November": 120,
+            "December": 115
+          },
+          "CIPMM": {
+            "January": 70,
+            "February": 60,
+            "March": 80,
+            "April": 65,
+            "May": 75,
+            "June": 70,
+            "July": 85,
+            "August": 60,
+            "September": 80,
+            "October": 70,
+            "November": 75,
+            "December": 80
+          }
+        }
+      },
+      {
+        "country": "BR",
+        "CPMM_total": 900,
+        "CIPMM_total": 600,
+        "monthly_data": {
+          "CPMM": {
+            "January": 85,
+            "February": 70,
+            "March": 95,
+            "April": 55,
+            "May": 80,
+            "June": 90,
+            "July": 80,
+            "August": 60,
+            "September": 75,
+            "October": 60,
+            "November": 70,
+            "December": 80
+          },
+          "CIPMM": {
+            "January": 55,
+            "February": 50,
+            "March": 65,
+            "April": 50,
+            "May": 60,
+            "June": 55,
+            "July": 50,
+            "August": 60,
+            "September": 50,
+            "October": 50,
+            "November": 45,
+            "December": 50
+          }
+        }
+      },
+      {
+        "country": "AR",
+        "CPMM_total": 850,
+        "CIPMM_total": 550,
+        "monthly_data": {
+          "CPMM": {
+            "January": 75,
+            "February": 70,
+            "March": 60,
+            "April": 85,
+            "May": 65,
+            "June": 70,
+            "July": 60,
+            "August": 80,
+            "September": 70,
+            "October": 65,
+            "November": 75,
+            "December": 65
+          },
+          "CIPMM": {
+            "January": 50,
+            "February": 45,
+            "March": 50,
+            "April": 55,
+            "May": 45,
+            "June": 50,
+            "July": 50,
+            "August": 55,
+            "September": 50,
+            "October": 45,
+            "November": 50,
+            "December": 50
+          }
+        }
+      },
+      {
+        "country": "IE",
+        "CPMM_total": 1250,
+        "CIPMM_total": 800,
+        "monthly_data": {
+          "CPMM": {
+            "January": 120,
+            "February": 110,
+            "March": 105,
+            "April": 115,
+            "May": 130,
+            "June": 120,
+            "July": 110,
+            "August": 130,
+            "September": 100,
+            "October": 105,
+            "November": 120,
+            "December": 115
+          },
+          "CIPMM": {
+            "January": 70,
+            "February": 60,
+            "March": 75,
+            "April": 65,
+            "May": 80,
+            "June": 70,
+            "July": 70,
+            "August": 75,
+            "September": 65,
+            "October": 70,
+            "November": 75,
+            "December": 80
+          }
+        }
+      },
+      {
+        "country": "GB",
+        "CPMM_total": 1300,
+        "CIPMM_total": 850,
+        "monthly_data": {
+          "CPMM": {
+            "January": 130,
+            "February": 120,
+            "March": 140,
+            "April": 110,
+            "May": 100,
+            "June": 120,
+            "July": 140,
+            "August": 130,
+            "September": 120,
+            "October": 130,
+            "November": 105,
+            "December": 125
+          },
+          "CIPMM": {
+            "January": 85,
+            "February": 75,
+            "March": 90,
+            "April": 80,
+            "May": 70,
+            "June": 75,
+            "July": 85,
+            "August": 75,
+            "September": 80,
+            "October": 85,
+            "November": 85,
+            "December": 85
+          }
+        }
+      },
+      {
+        "country": "CA",
+        "CPMM_total": 1100,
+        "CIPMM_total": 750,
+        "monthly_data": {
+          "CPMM": {
+            "January": 100,
+            "February": 95,
+            "March": 105,
+            "April": 85,
+            "May": 110,
+            "June": 90,
+            "July": 120,
+            "August": 85,
+            "September": 100,
+            "October": 80,
+            "November": 85,
+            "December": 130
+          },
+          "CIPMM": {
+            "January": 70,
+            "February": 65,
+            "March": 75,
+            "April": 60,
+            "May": 70,
+            "June": 50,
+            "July": 85,
+            "August": 55,
+            "September": 55,
+            "October": 60,
+            "November": 50,
+            "December": 60
+          }
+        }
+      },
+      {
+        "country": "JP",
+        "CPMM_total": 1400,
+        "CIPMM_total": 900,
+        "monthly_data": {
+          "CPMM": {
+            "January": 130,
+            "February": 135,
+            "March": 120,
+            "April": 150,
+            "May": 130,
+            "June": 155,
+            "July": 140,
+            "August": 145,
+            "September": 140,
+            "October": 150,
+            "November": 145,
+            "December": 130
+          },
+          "CIPMM": {
+            "January": 85,
+            "February": 75,
+            "March": 80,
+            "April": 85,
+            "May": 85,
+            "June": 90,
+            "July": 80,
+            "August": 95,
+            "September": 85,
+            "October": 85,
+            "November": 80,
+            "December": 90
+          }
+        }
+      },
+      {
+        "country": "IN",
+        "CPMM_total": 1000,
+        "CIPMM_total": 700,
+        "monthly_data": {
+          "CPMM": {
+            "January": 90,
+            "February": 85,
+            "March": 95,
+            "April": 85,
+            "May": 90,
+            "June": 85,
+            "July": 90,
+            "August": 80,
+            "September": 90,
+            "October": 90,
+            "November": 90,
+            "December": 90
+          },
+          "CIPMM": {
+            "January": 60,
+            "February": 65,
+            "March": 60,
+            "April": 55,
+            "May": 65,
+            "June": 55,
+            "July": 65,
+            "August": 55,
+            "September": 65,
+            "October": 60,
+            "November": 55,
+            "December": 55
+          }
+        }
+      }
+    ],
+    "zones": {
+        "NA": {
+          "countries": [
+            { "name": "United States of America", "CPMM": 1200, "CIPMM": 800 },
+            { "name": "Canada", "CPMM": 1100, "CIPMM": 750 }
+          ],
+          "total": {
+            "CPMM": 2300,
+            "CIPMM": 1550
+          }
+        },
+        "Europe": {
+          "countries": [
+            { "name": "United Kingdom", "CPMM": 1300, "CIPMM": 850 },
+            { "name": "Ireland", "CPMM": 1250, "CIPMM": 800 }
+          ],
+          "total": {
+            "CPMM": 2550,
+            "CIPMM": 1650
+          }
+        },
+        "Latam": {
+          "countries": [
+            { "name": "Brazil", "CPMM": 900, "CIPMM": 600 },
+            { "name": "Argentina", "CPMM": 850, "CIPMM": 550 }
+          ],
+          "total": {
+            "CPMM": 1750,
+            "CIPMM": 1150
+          }
+        },
+        "Asia": {
+          "countries": [
+            { "name": "Japan", "CPMM": 1400, "CIPMM": 900 },
+            { "name": "India", "CPMM": 1000, "CIPMM": 700 }
+          ],
+          "total": {
+            "CPMM": 2400,
+            "CIPMM": 1600
+          }
+        }
+      },
+      "general": {
+        "CPMM_Goal_global": 7.60,
+        "CIPMM_Goal_global": 0.05,
+        "Total_Miles_global": 5.333555,
+        "Total_Crashes_GLOBAL": 39,
+        "CYTD_CPMM_global": 8.22,
+        "CYTD_CIPMM_global": 0.36
+      },
+      "regions": {
+        "NA": {
+          "incidents": [
+            { "type": "Objects Falling on a Motor Vehicle", "count": 12 },
+            { "type": "Properly Parked Vehicle", "count": 8 },
+            { "type": "Vandalism", "count": 6 }
+          ],
+          "crashes": [
+            { "type": "J&J Driver hit rear of other vehicle", "count": 15 },
+            { "type": "J&J Driver lost control of vehicle", "count": 5 },
+            { "type": "Other Driver Hit and Run", "count": 3 }
+          ]
+        },
+        "Latam": {
+          "incidents": [
+            { "type": "Objects Falling on a Motor Vehicle", "count": 10 },
+            { "type": "Properly Parked Vehicle", "count": 7 },
+            { "type": "Vandalism", "count": 5 }
+          ],
+          "crashes": [
+            { "type": "J&J Driver hit rear of other vehicle", "count": 6 },
+            { "type": "J&J Driver lost control of vehicle", "count": 4 },
+            { "type": "Other Driver Hit and Run", "count": 2 }
+          ]
+        },
+        "Europe": {
+          "incidents": [
+            { "type": "Objects Falling on a Motor Vehicle", "count": 9 },
+            { "type": "Properly Parked Vehicle", "count": 6 },
+            { "type": "Vandalism", "count": 7 }
+          ],
+          "crashes": [
+            { "type": "J&J Driver hit rear of other vehicle", "count": 5 },
+            { "type": "J&J Driver lost control of vehicle", "count": 6 },
+            { "type": "Other Driver Hit and Run", "count": 4 }
+          ]
+        },
+        "Asia": {
+          "incidents": [
+            { "type": "Objects Falling on a Motor Vehicle", "count": 5 },
+            { "type": "Properly Parked Vehicle", "count": 9 },
+            { "type": "Vandalism", "count": 4 }
+          ],
+          "crashes": [
+            { "type": "J&J Driver hit rear of other vehicle", "count": 8 },
+            { "type": "J&J Driver lost control of vehicle", "count": 2 },
+            { "type": "Other Driver Hit and Run", "count": 1 }
+          ]
+        }
+      }
+    }
