@@ -5,65 +5,80 @@
         {
           "name": "United States of America",
           "id": 0,
-          "CPMM": 1200,
-          "CIPMM": 800
+          "CPMM": 1200.00,
+          "CIPMM": 800.00
         },
         {
           "name": "Canada",
           "id": 1,
-          "CPMM": 1100,
-          "CIPMM": 750
+          "CPMM": 1100.00,
+          "CIPMM": 750.00
         }
-      ]
+      ],
+      "total": {
+        "CPMM": 2300.00,
+        "CIPMM": 1550.00
+      }
     },
     "Europe": {
       "countries": [
         {
           "name": "United Kingdom",
           "id": 2,
-          "CPMM": 1300,
-          "CIPMM": 850
+          "CPMM": 1300.00,
+          "CIPMM": 850.00
         },
         {
           "name": "Ireland",
           "id": 3,
-          "CPMM": 1250,
-          "CIPMM": 800
+          "CPMM": 1250.00,
+          "CIPMM": 800.00
         }
-      ]
+      ],
+      "total": {
+        "CPMM": 2550.00,
+        "CIPMM": 1650.00
+      }
     },
     "Latam": {
       "countries": [
         {
           "name": "Brazil",
           "id": 4,
-          "CPMM": 900,
-          "CIPMM": 600
+          "CPMM": 900.00,
+          "CIPMM": 600.00
         },
         {
           "name": "Argentina",
           "id": 5,
-          "CPMM": 850,
-          "CIPMM": 550
+          "CPMM": 850.00,
+          "CIPMM": 550.00
         }
-
-      ]
+      ],
+      "total": {
+        "CPMM": 1750.00,
+        "CIPMM": 1150.00
+      }
     },
     "Asia": {
       "countries": [
         {
           "name": "Japan",
           "id": 6,
-          "CPMM": 1400,
-          "CIPMM": 900
+          "CPMM": 1400.00,
+          "CIPMM": 900.00
         },
         {
           "name": "India",
           "id": 7,
-          "CPMM": 1000,
-          "CIPMM": 700
+          "CPMM": 1000.00,
+          "CIPMM": 700.00
         }
-      ]
+      ],
+      "total": {
+        "CPMM": 2400.00,
+        "CIPMM": 1600.00
+      }
     }
   }
 }

@@ -132,23 +132,48 @@ background-color: white;
 
 export const HoldCountry = styled.div`
 display: flex;
+flex-wrap: wrap;
 flex-direction: column;
 justify-content: center;
 align-items: center;
 width: 100%;
+
 `
 
 export const Back = styled.div`
-display: flex;
-justify-content: center;
-align-items: center ;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  position: relative; 
 
-width: 100%;
-svg{
-position: absolute;
-  cursor: pointer;
-  font-size: 4rem;
-  left: 5rem;
-}
+  svg {
+    position: absolute; 
+    cursor: pointer;
+    font-size: 4rem;
+    left:5rem; 
+    border: 1px solid #f9ae3f;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    border-radius: 5px;
+    transition: background-color 0.1s ease, transform 0.1s ease; 
+    &:hover {
+    background-color: #FFA726; 
+    transform: scale(1.02); 
+    color: white;
+  }
+  &:active {
+    background-color: #FB8C00; 
+    transform: scale(1);
+  }
+  &:focus {
+    outline: none; 
+  }
 
-`
+
+    
+  }
+
+  h3 {
+    margin: 0 auto; 
+  }
+`;

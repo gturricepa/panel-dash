@@ -1,16 +1,16 @@
 {
   "months": [
-    { "month": "January", "value": 150 },
-    { "month": "February", "value": 170 },
-    { "month": "March", "value":150 },
-    { "month": "April", "value": 200 },
-    { "month": "May", "value": 170 },
-    { "month": "June", "value": 190 },
-    { "month": "July", "value": 120 },
-    { "month": "August", "value": 150 },
-    { "month": "September", "value": 100 },
-    { "month": "October", "value": 70 },
-    { "month": "November", "value": 80 },
-    { "month": "December", "value": 60 }
+    { "month": "January", "value": 500 },
+    { "month": "February", "value": 550 },
+    { "month": "March", "value": 550 },
+    { "month": "April", "value": 650 },
+    { "month": "May", "value": 550 },
+    { "month": "June", "value": 600 },
+    { "month": "July", "value": 400 },
+    { "month": "August", "value": 500 },
+    { "month": "September", "value": 400 },
+    { "month": "October", "value": 300 },
+    { "month": "November", "value": 350 },
+    { "month": "December", "value": 350 }
   ]
 }

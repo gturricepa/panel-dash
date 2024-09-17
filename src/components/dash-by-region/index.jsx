@@ -97,6 +97,7 @@ if (data){
               <Styled.SeeCountry   onClick={() => openModal(country.id)}> click to see about</Styled.SeeCountry> 
             </Styled.HoldCountry>
           ))}
+          
           </Styled.Countries>
         </Styled.Zone>
 }

@@ -1,33 +1,32 @@
 {
-    "id": 1,
-    "name": "Canada",
-    "CPMM": {
-      "January": 85,
-      "February": 95,
-      "March": 100,
-      "April": 90,
-      "May": 100,
-      "June": 80,
-      "July": 105,
-      "August": 85,
-      "September": 85,
-      "October": 90,
-      "November": 85,
-      "December": 85
-    },
-    "CIPMM": {
-      "January": 70,
-      "February": 65,
-      "March": 60,
-      "April": 70,
-      "May": 65,
-      "June": 55,
-      "July": 75,
-      "August": 70,
-      "September": 60,
-      "October": 65,
-      "November": 55,
-      "December": 55
-    }
+  "id": 1,
+  "name": "Canada",
+  "CPMM": {
+    "January": 100,
+    "February": 95,
+    "March": 105,
+    "April": 85,
+    "May": 110,
+    "June": 90,
+    "July": 120,
+    "August": 85,
+    "September": 100,
+    "October": 80,
+    "November": 85,
+    "December": 130
+  },
+  "CIPMM": {
+    "January": 70,
+    "February": 65,
+    "March": 75,
+    "April": 60,
+    "May": 70,
+    "June": 50,
+    "July": 85,
+    "August": 55,
+    "September": 55,
+    "October": 60,
+    "November": 50,
+    "December": 60
   }
-  
+}

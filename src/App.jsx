@@ -9,6 +9,7 @@ import { Maps } from './components/maps';
 import { Crashes } from './components/charts/crashes';
 import { Incidents } from './components/charts/incidents';
 import { Events } from './components/events';
+import { ChatBoot } from './components/chatboot';
 
 
 function App() {
@@ -42,7 +43,11 @@ function App() {
        <Events />
        </section>
        <Scroll/>
+       <section>
+        <ChatBoot />
+       </section>
       </main>
+
 
   )
 }
